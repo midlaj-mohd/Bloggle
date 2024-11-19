@@ -1,5 +1,7 @@
 # Blog Website
 Welcome to the Blog Website Project! This project serves as a demonstration of core web development skills, focusing on creating a user-friendly and engaging platform for readers to discover and interact with compelling content.
+![User Page](https://github.com/user-attachments/assets/7e52c335-bd64-4592-a86d-23e4373a23af)
+
 
 ## Explore This Repository:
 
